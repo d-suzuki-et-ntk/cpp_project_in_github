@@ -30,7 +30,7 @@ limitations under the License.
 /*** Function ***/
 int main(int argc, char* argv[])
 {
-    printf("Hello world\n");
+    printf("Hello C++\n");
 
     return 0;
 }
